@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Depot Maninjau</string>
+    <string name="add_to_cart">Tambah ke Keranjang</string>
+    <string name="view_detail">Lihat Detail</string>
+    <string name="currency_format">Rp %s</string>
+</resources>
